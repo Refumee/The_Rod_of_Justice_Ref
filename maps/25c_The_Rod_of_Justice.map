@@ -1,0 +1,31 @@
+border_size=1
+usage=map
+
+Md, Dd, Hhd, Md, Md, Md, Md, Md, Md, Md, Hhd, Md, Md, Md, Md, Md, Md, Md, Qlf, Md, Qlf, Hd, Hd, Md, Md, Dd, Md, Dd, Hhd, Hd, Hd
+Md, Md, Mv, Hd, Hhd, Md^Xm, Md^Xm, Hd, Hd, Md, Md, Md, Qlf, Md, Qlf, Qlf, Qlf, Qlf, Ql, Qlf, Ql, Md, Md, Md, Hd, Hd, Mv, Hd, Hhd, Hd, Hd
+Md, Md, Md, Md, Hhd, Md, Hhd, Hhd, Md, Md^Xm, Md, Ql, Ql, Qlf, Ql, Ql, Ql, Ql, Qxu, Ql, Qxu, Ql, Ql, Md, Md^Xm, Md^Xm, Md, Md, Hhd, Hd, Md
+Hhd, Qlf, Qlf, Md, Hhd, Hhd, Hd, Md, Md, Md, Qxu, Qxu, Qxu, Ql, Qxu, Qxu, Qxu, Qxu, Qlf, Qxu, Qlf, Qxu, Qxu, Md^Xm, Qlf, Qlf, Qlf, Rd, Hhd, Md^Xm, Dd
+Md, Hhd, Qlf, Hhd, Hhd, Md^Xm, Hd, Hd, Md, Qxu, Ql, Ql, Qxu, Qxu, Qxu, Ql, Qxu, Ql, Qxu, Qlf, Qxu, Ql, Ql, Md^Xm, Md^Xm, Qlf, Qlf, Qlf, Hhd, Md^Xm, Dd
+Md, Md, Qlf, Md^Xm, Hhd, Md, Md, Md, Md, Ql, Ql, Qxu, Ql, Qxu, Qlf, Qxu, Ql, Qxu, Qxu, Qxu, Qlf, Qlf, Qxu, Qxu, Qxu, Md, Qlf, Md, Md, Hhd, Hd
+Hd, Hd, Qlf, Hhd, Hhd, Md, Md, Hhd, Md, Ql, Ql, Qxu, Qxu, Qlf, Qxu, Qlf, Ql, Ql, Ql, Qxu, Qxu, Qxu, Ql, Ql, Ql, Qlf, Hhd, Hhd, Hhd, Hd, Md
+Md, Hhd, Md, Qlf, Qlf, Md, Qlf, Md, Hhd, Qlf, Ql, Ql, Qxu, Qxu, Qlf, Qlf, Qlf, Qlf, Qlf, Qlf, Qlf, Ql, Qlf, Qlf, Qlf, Qlf, Hhd, Md^Xm, Hhd, Hhd, Md
+Md, Hhd, Hd, Md, Hhd, Qlf, Qlf, Qlf, Qlf, Qlf, Ql, Qxu, Qxu, Qlf, Ql, Ql, Ql, Ql, Qxu, Qxu, Qxu, Qlf, Ql, Md, Ql, Md, Md^Xm, Md^Xm, Dd, Hhd, Md
+Md, Hd, Hd, Hd, Hhd, Hd, Qxu, Qxu, Qxu, Ql, Qxu, Qxu, Qlf, Qlf, Qxu, Qxu, Qxu, Ql, Qxu, Ql, Ql, Qxu, Qxu, Ql, Md, Md, Md, Md, Hhd, Md, Dd
+Md, Md, Md, Hd, Hhd, Md^Xm, Md, Qxu, Ql, Ql, Qxu, Qlf, Ql, Ql, Qxu, Qlf, Qxu, Qlf, Qxu, Qlf, Qlf, Ql, Qxu, Qlf, Qlf, Md, Md^Xm, Md, Md, Md, Hhd
+Md, Hhd, Dd, Md, Md, Md^Xm, Md, Qxu, Qxu, Qxu, Ql, Qlf, Qlf, Qlf, Qlf, Qlf, Ql, Qlf, Qxu, Qlf, Qlf, Ql, Qxu, Qlf, Ql, Md, Md, Md, Hhd, Md, Md
+Hd, Md, Hd, Hd, Hhd, Md^Xm, Qlf, Ql, Qxu, Qxu, Qxu, Qxu, Qxu, Ql, Ql, Ql, Ql, Qxu, Ql, Qxu, Qxu, Ql, Qxu, Qxu, Ql, Md, Md, Hhd, Md, Md, Md
+Md, Hd, Md, Mv, Md, Qlf, Qlf, Md, Ql, Qxu, Qxu, Ql, Ql, Qxu, Qxu, Qxu, Qxu, Qxu, Ql, Ql, Qxu, Qxu, Ql, Ql, Ql, Md, Ql, Md, Md^Xm, Md, Md
+Md, Md, Rd, Md, Qlf, Qlf, Ql, Qlf, Qxu, Qxu, Ql, Ql, Qxu, Qxu, Ql, Ql, Qlf, Ql, Qxu, Qxu, Qxu, Ql, Qlf, Qlf, Qlf, Ql, Md, Md^Xm, Md^Xm, Md, Md
+Md, Hhd, Qlf, Qlf, Md^Xm, Md, Md, Qxu, Qxu, Qxu, Qxu, Qxu, Ql, Ql, Qlf, Qxu, Qlf, Qxu, Qxu, Ql, Qxu, Qxu, Ql, Ql, Ql, Md, Md^Xm, Md^Xm, Md, Md, Md
+Md, Hhd, Qlf, Md, Md, Hhd, Qlf, Qxu, Qxu, Ql, Ql, Qxu, Ql, Ql, Qlf, Qxu, Qlf, Ql, Qxu, Qxu, Ql, Qlf, Qlf, Ql, Md, Hhd, Md, Md, Md^Xm, Md, Md
+Hhd, Hhd, Hhd, Qlf, Qlf, Qlf, Md, Qxu, Qxu, Ql, Qxu, Ql, Qxu, Qxu, Qlf, Qxu, Qlf, Qlf, Ql, Qxu, Qxu, Qlf, Ql, Md, Hhd, Md^Xm, Md, Mv, Md, Hhd, Hhd
+Dd, Hhd, Hd, Qlf, Qlf, Md, Qlf, Qlf, Qlf, Qxu, Ql, Ql, Qxu, Qlf, Qxu, Qlf, Qlf, Qlf, Ql, Qxu, Qxu, Qxu, Ql, Md, Md, Hhd, Qlf, Md, Qlf, Md, Md
+Md, Hd, Hhd, Md, Hhd, Qlf, Hd, Md, Qxu, Qxu, Qxu, Ql, Qxu, Qxu, Qlf, Qlf, Qxu, Qxu, Qxu, Ql, Qxu, Ql, Qlf, Qlf, Qlf, Qlf, Md^Xm, Qlf, Md, Md, Md
+Md^Xm, Md^Xm, Hhd, Hd, Hd, Dd, Hd, Md, Qxu, Ql, Qxu, Ql, Ql, Qxu, Qxu, Qxu, Ql, Qxu, Ql, Qxu, Md, Md, Qlf, Qlf, Ql, Md, Md, Md, Md, Mv, Md
+Md, Md, Hhd, Hd, Hd, Md^Xm, Md, Md, Hhd, Qxu, Qxu, Qxu, Ql, Qxu, Ql, Qxu, Qxu, Qxu, Qxu, Md, Qxu, Qxu, Qxu, Ql, Md, Md, Md, Qlf, Md, Md, Md
+Hhd, Hhd, Md, Hd, Md, Md^Xm, Md^Xm, Md, Qlf, Md, Qxu, Qlf, Ql, Qlf, Ql, Ql, Qxu, Ql, Qlf, Qxu, Qlf, Qxu, Ql, Ql, Md, Md, Hhd, Qlf, Qlf, Qlf, Md
+Md, Md, Mv, Md, Qlf, Hhd, Qlf, Qlf, Md, Qlf, Qxu, Qlf, Qxu, Ql, Qxu, Ql, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Ql, Qlf, Qlf, Hhd, Qlf, Md, Qlf, Md, Md
+Md, Md, Md, Md, Hhd, Qlf, Hhd, Md, Hhd, Hd, Qxu, Qxu, Ql, Ql, Qxu, Ql, Qxu, Qxu, Qxu, Qxu, Ql, Ql, Qxu, Qxu, Qxu, Qlf, Ql, Qlf, Qlf, Hhd, Md
+Md, Qlf, Qlf, Qlf, Qlf, Qlf, Qlf, Hhd, Qlf, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Ql, Ql, Qxu, Qxu, Qxu, Hhd, Hhd, Qxu, Ql, Ql, Ql, Ql, Qxu, Md
+Md, Hd, Md, Md^Xm, Md, Md, Md, Qlf, Qlf, Md, Md, Qxu, Qxu, Ql, Qxu, Qxu, Hhd, Hd, Md, Md, Hd, Md, Md, Md, Hd, Qxu, Qxu, Qxu, Qxu, Qxu, Md
+Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Md, Qxu, Md, Hhd, Md, Md, Md, Dd, Md, Hd, Hhd, Md, Md, Hd, Hd, Hd, Md, Hhd, Md

@@ -1,0 +1,49 @@
+1.0.1
+S7
+-made some edits to sighted events
+S11
+-minor edits and proofreading
+S15
+-fixed a bug that caused the game to be stuck on a black screen when unstoring any of Adria's units
+-extended the turn limits on all difficulties by 10
+S17
+-fixed an oversight that allowed Raourshin Ohn's death to not result in defeat
+S18
+-extended the turn limits on all difficulties by 10
+-specified/clarified mid-scenario objectives to be clearer
+S24
+-made Raelyan's AI a bit more cautious, so that she 
+hopefully doesn't "charge of the light brigade" all of her units into the eastern shaxthals
+-gave Raelyan a +2 bump in base income across all difficulties
+Units
+-weakened the Eidolon's attacks just slightly
+-updated spider lich sprites
+1.0.0
+-after a few years spent in development hell, the first full version is out! More or less complete with 26 scenarios, 5 of which are story-only, 4 of which are boss battles, and the remaining 17 of which are your run-of-the-mill complete x objecitve scenarios.
+0.0.7
+-added an eighth scenario, "Process of Elimination"
+-added a ninth scenario, "The Three Trials"
+-added a tenth scenario, "Unforgettable"
+-added an eleventh scenario, "Short on Time"
+-added in the custom unit "Eidolon"
+-edited code and dialogue in a few small places
+-added more UMC music
+-added credits for icelake and Empathy for their respective ideas
+-added credits for maksiu for the "Eidolon" sprite
+0.0.2
+-minor grammatical changes in scenario 3 "The Convocation"
+-fixed ability loss with Arthyn and Adria
+-added credits for Heindal, bonehead11, eyerogue, and Valkier for their respective artwork
+-Arthyn, like Mergubraesh, is now recalled and the beginning of scenarios 2 & 4
+-Arthyn is now LOYAL and QUICK instead of LOYAL and HEALTHY to make him (more) viable in desert scenarios
+-edited the "Chaos Antihero" unit so that it has a bit more HP
+-took shadowm's advice and changed the turn limit in scenario 2 "All Sides Surrounded" from -1 to 16
+-added defined minimum starting gold amounts to scenarios 2 & 4 to fix issues with finish at/very close to the time limit
+-added three turns in scenario one "A New Enemy" so players may have a chance at an early finish bonus and more gold for the next scenario.
+-Added a fifth scenario, "The Silk Road," mostly army building and backstory on Mal Idyr, with some conflict
+-Added a sixth scenario, "The Sentinels"
+-Added a seventh scenario, "A Spider's Web"
+-Added the custom unit "Giant Cockroach"
+-Added the custom unit "Spider Hatchling" from SpenceLack's "Ooze Mini Campaign"
+0.0.1 
+Initial release with four scenarios! Yay!

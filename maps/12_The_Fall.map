@@ -1,0 +1,16 @@
+border_size=1
+usage=map
+
+Rr, Rr, Rr, Rr, Rd, Rr, Rd, Rd, Rr, Rr, Rr, Rr, Rd, Rr, Rr, Rr, Rd, Rr, Rd, Rr, Rr, Rr
+Rr, Rr, Rr, Dd^Dr, Rd, Rd, Rd, Rr, Rr, Rr, Rd, Rd, Rr, Rr, Dd^Dc, Rd, Rr^Dr, Rd, Rd, Rd, Rr, Rr
+Rr, Rr, Rr, Rd, Dd^Dc, Rr, Rr, Rr, Rd, Rr, Rr, Rd, Dd, Rr, Rr, Rr, Rr, Rd, Rr, Dd, Rr, Rr
+Rr, Rr, Dd, Dd^Dc, Rd, Dd, Rr, Rr, Rr, Dd^Dr, Rr, 1 Khr, Rr, Rr, Rd, Rr, Rr, Rr, Dd, Rr^Dr, Rr, Rr
+Rr, Rr, Rr, Rr, Rd, Rr^Dr, Rd, Khr, Rr, Rr, Dd^Dc, Rr, Rd, Rr, Rr, Khr, Rr, Rr, Rr, Rr, Dd, Rr
+Rr, Dd, Rr, Rd, Khr, Rd, Rd, Rd, Rr, Rd, Rr, Rr, Rr, Rr, Dd^Dc, Rr, Rd, Rr, Khr, Rr, Rr, Rr
+Rr, Rr, Rr^Dr, Rr, Rr, Rr, Rr, Dd^Dr, Rr, Rr, Wwg^Xo, Wwg^Xo, Wwg^Xo, Rr, Rr, Dd, Rr, Rr, Dd^Dr, Rr, Rr, Rr
+Rr, Rr, Rr, Dd, Rd, Rr, Rd, Rr, Wwg, Rr, Wwf^Xo, Chr, Wwf^Xo, Rr^Dr, Wwg, Rr, Rr, Rr, Rr, Rr, Dd, Rr
+Rr, Rr, Rr, Rr, Khr, Rr, Rr, Wwg, Rd, Wwf, Rd, Rr^Xo, Wwg, Wwg, Chr, Wwg, Rr, Dd, Khr, Rr, Rr, Rr
+Rr, Rr, Dd, Rd, Rd^Dr, Dd, Rr, Wwg, Wwg, Rr, Rr, Dd, Rr, Rr, Wwg, Wwg, Rr, Rr, Dd, Rr, Rr, Rr
+Rr, Rr, Rr, Rr, Rr, Rd, Rr, Rr, Rr, Wwg, Rr, Dd, Dd, Wwg, Rr, Rr, Dd, Rr^Dr, Dd^Dc, Rr, Dd, Rr
+Rr, Rr, Rr, Dd, Rr, Dd, Rr, Rd, Rr, Wwg, Rr, Dd, Rr, Wwg, Rr, Rr, Rr, Rr, Dd, Rr, Rr, Rr
+Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Wwg, Rr, Dd, Rr, Wwg, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr
