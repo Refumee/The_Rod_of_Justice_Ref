@@ -1,0 +1,20 @@
+What remains
+How does Raelyan know that Edangor was killed? She shouldn't be able to know about if unless Mal Idyr and Devanar told her.
+
+Devanar claiming to be part of House Esari without any explanation or backup by Mal Idyr, and everyone just accepted it? That doesn't make any sense to me.
+
+For both those issues I would suggest adding some kind of intermission or something, where it's stated that Mal Idyr/Devanar explain about Edangor and Devanars parents.
+
+Finale
+
+Mal Ganror should react when you take down the third soul, and become vulnerable again, possibly also taking 40hp damage to revert back to normal lich hp.
+Taking down any of the 3 souls should/could elict a reaction from your units, like Aragwaith for Tochor, maybe anyone for the elf, and Drakes or Raourshin for the drake.
+Maybe some reactions from Mal Idyr as well.
+
+Mal Ganror and Mal Idyr should react to Mal Ganrors demise.
+
+OVERALL
+secondary hero units arent persistent.
+
+"When the Chaos Magi attacks Moran (the Spectre) he uses the image/sound for his cold based attack, and it would make more sense to use his arcane based attack instead."
+for that I need to rewatch the current upload. Funnily enough, the code just wants to make him do a ranged attack and he decided for the cold attack, for what ever reason, I'll need to see what I can do about it.
